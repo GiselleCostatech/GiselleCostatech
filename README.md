@@ -78,12 +78,12 @@ Atuo com **engenharia de dados** construindo pipelines robustos, escaláveis e d
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GiselleCostatech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA3F2&icon_color=2EA3F2&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GiselleCostatech&theme=tokyonight&hide_border=true&background=0D1117&ring=2EA3F2&fire=2EA3F2&currStreakLabel=2EA3F2"/>
+<img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
+<img height="165" src="./profile/streak.svg" alt="GitHub Streak"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleCostatech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA3F2&text_color=C9D1D9"/>
+<img src="./profile/top-langs.svg" alt="Top Languages"/>
 
 <br><br>
 
