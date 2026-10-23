@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- 🔧 ALTERE "GiselleCostatech" pelo seu usuário do GitHub em TODOS os links abaixo -->
-
 # Olá, eu sou Giselle Costa 👋
 ### Data Engineer | Pipelines que escalam, dados que fazem sentido
 
@@ -70,21 +68,13 @@ Atuo com **engenharia de dados** construindo pipelines robustos, escaláveis e d
 
 ## 🚀 Projetos em Destaque / Soluções Reais
 
-<!-- 🔧 Substitua os links "GiselleCostatech/nome-do-repo" pelos links reais dos seus repositórios -->
-
 | Projeto | Dor de negócio resolvida | Tecnologias | Resultado / Métrica |
 |---|---|---|---|
 | **[telecom-cobran-a-pipeline](https://github.com/GiselleCostatech/telecom-cobran-a-pipeline)** | Cobrança de telecom com dados fragmentados entre sistemas, dificultando conciliação e relatórios confiáveis | `Python` `dbt` `Airflow` `DuckDB` `ETL` | Pipeline unificado de ingestão → transformação → camada analítica pronta para BI |
-| **[nome-do-projeto-2](https://github.com/GiselleCostatech/nome-do-projeto-2)** | *Descreva aqui a dor de negócio* | `Tech` `Tech` `Tech` | *Ex: redução de X% no tempo de processamento* |
-| **[nome-do-projeto-3](https://github.com/GiselleCostatech/nome-do-projeto-3)** | *Descreva aqui a dor de negócio* | `Tech` `Tech` `Tech` | *Ex: X GB/dia processados com Y% de disponibilidade* |
-
-> 💡 *Dica: adicione mais linhas conforme for publicando novos projetos. Recrutadores olham primeiro para "dor resolvida" e "resultado mensurável" — sempre que possível, coloque números.*
 
 <br>
 
 ## 📊 Estatísticas do GitHub
-
-<!-- 🔧 Troque "GiselleCostatech" pelo seu usuário em TODAS as URLs abaixo para os cards funcionarem -->
 
 <div align="center">
 
