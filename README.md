@@ -1,138 +1,60 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EA3F2&height=180&section=header&text=Giselle%20Costa&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Engineer%20%40%20Jump&descAlignY=58&descSize=18" width="100%" alt="Giselle Costa, Data Engineer @ Jump"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:F72585&height=190&section=header&text=Giselle%20Costa&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Engenheira%20de%20Dados&descAlignY=58&descSize=20" width="100%" alt="Giselle Costa, Engenheira de Dados"/>
 
 <div align="center">
 
-# Olá, eu sou Giselle Costa 👋
-### Data Engineer | Pipelines que escalam, dados que fazem sentido
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Data+Engineer+%40+Jump;ETL+%2F+ELT+%7C+Pipelines+%7C+Automa%C3%A7%C3%A3o;Transformando+dados+brutos+em+decis%C3%A3o+de+neg%C3%B3cio;Criadora+de+conte%C3%BAdo+tech+%40giselletechh" alt="Typing SVG" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Data%20Engineer-2EA3F2?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL%20%26%20Pipelines-0F172A?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tech%20Content%20Creator-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Engenheira+de+Dados+%F0%9F%92%9C;Pipelines+ETL+%2F+ELT+que+escalam;Dados+brutos+%E2%86%92+decis%C3%B5es+de+neg%C3%B3cio;Conte%C3%BAdo+tech+no+%40giselletechh" alt="Typing SVG" />
 
 </div>
 
-<br>
+## 💜 Sobre mim
 
-## 💼 Sobre mim
+Sou **engenheira de dados** e gosto de transformar dado bagunçado em pipeline confiável e decisão de negócio. Também crio conteúdo sobre tecnologia e dados no **[@giselletechh](https://www.instagram.com/giselletechh)**, para quem está começando na área.
 
-```python
-class GiselleCosta:
-    def __init__(self):
-        self.cargo = "Data Engineer @ Jump"
-        self.foco = ["Pipelines de dados", "ETL/ELT", "Arquitetura escalável", "Automação"]
-        self.mentalidade = "Resolver dor de negócio real, não só rodar código"
-        self.bonus = "Traduzo engenharia de dados complexa em conteúdo que qualquer pessoa entende"
-
-    def como_trabalho(self):
-        return "Dado bagunçado -> pipeline confiável -> decisão de negócio mais rápida"
-```
-
-Atuo com **engenharia de dados** construindo pipelines robustos, escaláveis e de fácil manutenção — do ingest bruto até a camada analítica pronta para decisão. Gosto de trabalhar próxima do problema de negócio: entender a dor antes de escrever a primeira linha de código. Fora do código, produzo conteúdo sobre tecnologia e dados, tornando temas técnicos acessíveis para quem está começando na área.
-
-<br>
-
-## ⚡ Agora estou
-
-- 🏢 Construindo e mantendo pipelines de dados na **Jump**
-- 📱 Produzindo conteúdo sobre dados e tecnologia no **[@giselletechh](https://www.instagram.com/giselletechh)**
-- 🤝 Aberta a trocar ideia sobre engenharia de dados, dbt, Airflow e carreira em dados
-- 💬 Me pergunte sobre: ETL/ELT, modelagem com dbt, orquestração e como começar na área de dados
-
-<br>
-
-## 🛠️ Tech Stack & Ferramentas
+## 🛠️ Stack
 
 <div align="center">
 
-**Linguagens**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-**Processamento de Dados**
-<br>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-
-**Orquestração & Infra**
-<br>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-**Cloud & Data Warehouse**
-<br>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-B5179E?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-D61F8C?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-F72585?style=for-the-badge&logo=duckdb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-F72585?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-B5179E?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-9D4EDD?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 
 </div>
 
-<br>
+## 🚀 Projeto em destaque
 
-## 🚀 Projetos em Destaque / Soluções Reais
+### [📡 telecom-cobran-a-pipeline](https://github.com/GiselleCostatech/telecom-cobran-a-pipeline)
 
-| Projeto | Dor de negócio resolvida | Tecnologias | Resultado / Métrica |
-|---|---|---|---|
-| **[telecom-cobran-a-pipeline](https://github.com/GiselleCostatech/telecom-cobran-a-pipeline)** | Cobrança de telecom com dados fragmentados entre sistemas, dificultando conciliação e relatórios confiáveis | `Python` `dbt` `Airflow` `DuckDB` `ETL` | Pipeline unificado de ingestão → transformação → camada analítica pronta para BI |
+**Problema:** dados de cobrança de telecom espalhados entre sistemas, dificultando conciliação e relatórios confiáveis.<br>
+**Solução:** pipeline unificado de ingestão → transformação → camada analítica pronta para BI.<br>
+**Tecnologias:** `Python` `dbt` `Airflow` `DuckDB`
 
-<br>
-
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
 
 <img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
-<img height="165" src="./profile/streak.svg" alt="GitHub Streak"/>
-
-<br>
-
-<img src="./profile/top-langs.svg" alt="Top Languages"/>
-
-<br><br>
+<img height="165" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiselleCostatech/GiselleCostatech/output/snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/GiselleCostatech/GiselleCostatech/output/snake.svg" alt="Cobrinha comendo o gráfico de contribuições"/>
 </picture>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiselleCostatech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EA3F2&line=2EA3F2&point=FFFFFF"/>
-
 </div>
 
-<br>
-
-## 🌐 Conecte-se comigo
+## 🌸 Vamos conversar
 
 <div align="center">
 
-<a href="https://www.instagram.com/giselletechh" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/giselle-costa-" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:giselle.tech@outlook.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=GiselleCostatech&style=for-the-badge&color=2EA3F2&label=Visualiza%C3%A7%C3%B5es+do+perfil"/>
+<a href="https://www.instagram.com/giselletechh" target="_blank"><img src="https://img.shields.io/badge/Instagram-F72585?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/giselle-costa-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:giselle.tech@outlook.com"><img src="https://img.shields.io/badge/Email-B5179E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
-<div align="center">
-<sub>💬 Dados brutos entram, decisões de negócio saem.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F2,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7B2CBF&height=100&section=footer" width="100%"/>
