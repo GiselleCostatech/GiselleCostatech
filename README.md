@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EA3F2&height=180&section=header&text=Giselle%20Costa&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Engineer%20%40%20Jump&descAlignY=58&descSize=18" width="100%" alt="Giselle Costa, Data Engineer @ Jump"/>
+
 <div align="center">
 
 # Olá, eu sou Giselle Costa 👋
@@ -30,6 +32,15 @@ class GiselleCosta:
 ```
 
 Atuo com **engenharia de dados** construindo pipelines robustos, escaláveis e de fácil manutenção — do ingest bruto até a camada analítica pronta para decisão. Gosto de trabalhar próxima do problema de negócio: entender a dor antes de escrever a primeira linha de código. Fora do código, produzo conteúdo sobre tecnologia e dados, tornando temas técnicos acessíveis para quem está começando na área.
+
+<br>
+
+## ⚡ Agora estou
+
+- 🏢 Construindo e mantendo pipelines de dados na **Jump**
+- 📱 Produzindo conteúdo sobre dados e tecnologia no **[@giselletechh](https://www.instagram.com/giselletechh)**
+- 🤝 Aberta a trocar ideia sobre engenharia de dados, dbt, Airflow e carreira em dados
+- 💬 Me pergunte sobre: ETL/ELT, modelagem com dbt, orquestração e como começar na área de dados
 
 <br>
 
@@ -87,6 +98,13 @@ Atuo com **engenharia de dados** construindo pipelines robustos, escaláveis e d
 
 <br><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiselleCostatech/GiselleCostatech/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/GiselleCostatech/GiselleCostatech/output/snake.svg" alt="Cobrinha comendo o gráfico de contribuições"/>
+</picture>
+
+<br><br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiselleCostatech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EA3F2&line=2EA3F2&point=FFFFFF"/>
 
 </div>
@@ -116,3 +134,5 @@ Atuo com **engenharia de dados** construindo pipelines robustos, escaláveis e d
 <div align="center">
 <sub>💬 Dados brutos entram, decisões de negócio saem.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F2,100:0D1117&height=100&section=footer" width="100%"/>
