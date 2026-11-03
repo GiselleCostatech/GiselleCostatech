@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=200&section=header&text=GISELLE%20COSTA&fontSize=42&fontColor=FF79C6&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3d0c47&height=200&section=header&text=GISELLE%20COSTA&fontSize=42&fontColor=FF79C6&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&height=40&lines=SYSTEM+BOOTING...;INITIALIZING+DATA+PIPELINES...;PYTHON+%7C+SPARK+%7C+SQL+LOADED+%E2%9C%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=550&height=40&lines=SYSTEM+BOOTING...;INITIALIZING+DATA+PIPELINES...;PYTHON+%7C+SPARK+%7C+SQL+LOADED+%E2%9C%93" alt="Typing SVG" />
 </div>
 
 ---
