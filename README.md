@@ -1,70 +1,26 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,15,35&height=220&section=header&text=GISELLE%20COSTA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" />
-</div>
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=650&height=50&lines=SYSTEM+BOOTING...;ENGENHEIRA+DE+DADOS+%7C+BIG+DATA;TRANSFORMANDO+DADOS+EM+IMPACTO+REAL+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+name: Cobrinha das contribuicoes
 
----
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-### 💻 Sobre Mim
-<p align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GiselleCostatech&show_icons=true&theme=synthwave&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&bg_color=181825" width="42%" />
-</p>
+permissions:
+  contents: write
 
-* 👩‍💻 **Engenheira de Dados** na Global Hitss, atuando em projetos de grande escala para a América Móvil e Claro Brasil.
-
-* 🏗️ Especialista em arquitetura robusta de Data Lakes (camadas Raw, Trusted e DataCore), pipelines de ETL de alta performance, catalogação de metadados e migração complexa de sistemas legados de telecom.
-
-* 💜 Fundadora e criadora da **Tech Girls**, liderando iniciativas de impacto para inclusão, mentoria e protagonismo feminino na tecnologia.
-
-* 📍 Baseada no Rio de Janeiro (RJ) e conectada com o mundo através do trabalho remoto.
-
----
-
-### 🛠️ Tech Stack & Ferramentas
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF6B4B?style=for-the-badge&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Athena-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
----
-
-### 🏆 Conquistas no GitHub
-<div align="center">
-<img src="https://github-profile-trophies.vercel.app/?username=GiselleCostatech&theme=synthwave&no-bg=true&no-frame=true&margin-w=5&margin-h=5" alt="Giselle's Trophies" />
-</div>
-
----
-
-### 🌐 Vamos Conectar?
-<p align="center">
-<a href="https://www.linkedin.com/in/giselle-costa-">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/GiselleCostatech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
- 
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#FF6FB5&color_dots=#FFE3F1,#FFB8DC,#FF8CC6,#FF6FB5,#D63F8C
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF6FB5&color_dots=#161b22,#5C2A4A,#8E3A6E,#C74E95,#FF6FB5
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
