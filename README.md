@@ -25,7 +25,7 @@
 
 ### 📊 Como eu trabalho com dados
 <div align="center">
-<img src="https://raw.githubusercontent.com/GiselleCostatech/GiselleCostatech/main/fluxo-dados.png" alt="Fluxo de Dados" width="100%" onerror="this.style.display='none'" />
+<img src="https://raw.githubusercontent.com/GiselleCostatech/GiselleCostatech/main/fluxo-dados.png" alt="Fluxo de Dados" width="100%" />
 </div>
 
 * **Sistemas legados de Telecom** ➡️ **Ingestão (PySpark + Airflow)** ➡️ **Raw (Dado Bruto)** ➡️ **Trusted (Validado e Padronizado)** ➡️ **Refined (Pronto para análise)** & **Governança (Catálogo e Qualidade)**.
@@ -62,9 +62,9 @@
 ### 🐍 Minhas contribuições
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiselleCostatech/GiselleCostatech/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiselleCostatech/GiselleCostatech/output/github-contribution-grid-snake.svg">
-<img alt="Cobrinha rosa comendo minhas contribuições" src="https://raw.githubusercontent.com/GiselleCostatech/GiselleCostatech/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img alt="Cobrinha rosa comendo minhas contribuições" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
