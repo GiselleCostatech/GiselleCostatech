@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&height=50&lines=Olá%2C+Mundo!+👋+Sou+Giselle+Costa;Engenheira+de+Dados+%7C+Big+Data;Transformando+dados+em+inteligência! 🚀" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=181825&height=200&section=header&text=GISELLE%20COSTA&fontSize=42&fontColor=FF79C6&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&height=40&lines=SYSTEM+BOOTING...;INITIALIZING+DATA+PIPELINES...;PYTHON+%7C+SPARK+%7C+SQL+LOADED+%E2%9C%93" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,20 +23,20 @@
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
-<div align="center">
-
-| Categoria | Tecnologias / Ferramentas |
-
-| :--- | :--- |
-
-| **Linguagens & Consultas** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-
-| **Orquestração & Processamento** | ![Airflow](https://img.shields.io/badge/Apache%2520Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF6B4B?style=flat-square&logo=dbt&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) |
-
-| **Cloud & Data Warehousing** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white) ![Athena](https://img.shields.io/badge/AWS%20Athena-527FFF?style=flat-square&logo=amazon-aws&logoColor=white) |
-
-| **Ambiente & Ferramentas** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-FF6B4B?style=for-the-badge&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Athena-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -75,5 +78,4 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
-Readme Typing SVG - Demo Site
  
